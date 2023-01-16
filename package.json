@@ -4,7 +4,7 @@
   "description": "trying the commando pattern with Classes",
   "main": "basic.ts",
   "scripts": {
-    "start": "npx ts-node basic.ts",
+    "start": "cd src && npx ts-node basic.ts",
     "test": "test"
   },
   "keywords": [
